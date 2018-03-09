@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    min-height: 100px;
+    background-color: #1F1F1F;
+    overflow: hidden;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 20%;
+    float: left;
+    margin-top: 30px;
+}
+
+
+.nav {
+    width: 70%;
+    float: right;
+    margin-top: 30px;
+}
+.nav ul{
+    list-style: none;
+}
+.nav ul li{
+    float: left;
+}
+.nav ul li a{
+    text-decoration: none;
+     padding: 0 30px;
+    font-size: 20px;
+    color: white; 
+}
+.nav ul li a:hover{
+    color: yellow;
+   
+}
+
+.banner {
+    background-image: url(../images/girl-2940655_960_720.jpg);
+    min-height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+
+
+.banner_text {
+    width: 50%;
+    
+    margin-top: 5%;
+  
+    
+}
+
+
+.banner_text h2 {
+   
+    color: white;
+    font-weight: normal;
+   
+    
+}
+
+
+.banner_text h1 {
+   color: lightblue;
+    color: white;
+}
+
+.service{
+    background-color: black;
+    min-height: 350px;
+    overflow: hidden;
+}
+
+
+
+.serv_logo1{
+    width: 50px;
+    padding-left: 130px;
+}
+
+.pra1{
+    color: wheat;
+    
+    width: 350px;
+    height: 200px;
+    
+}
+.button1{
+    width: 80px;
+    height: 25px;
+    color: wheat;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+
+
+.footer{
+    background-color: wheat;
+    min-height: 100px;
+}
+.footer_img{
+    padding-top: 20px;
+    padding-right: 5px;
+}
+
+.footer_baj{
+    
+    text-align: center;
+    width: 950px;
+    padding-left: 40px;
+}
+   
+    
+
